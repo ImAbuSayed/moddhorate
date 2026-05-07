@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/moddhorate/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Moddhorate](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Moddhorate](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> মধ্যরাতে যখন সব কোলাহল থেমে যায়
+> তোমার চোখের নেশায় আমার হৃদয় হারায়
+> কাছে এসো আজ এই মাতাল অন্ধকারে
+> লুকিয়ে রাখি তোমায় আমার প্রেমের চাদরে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
