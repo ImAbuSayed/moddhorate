@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Moddhorate
+
+This log tracks the cryptographic history and versioning for the song **Moddhorate** (moddhorate).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:01:51.183433 | `v1` | `5ddfe6de839ff0b18ad3d910c2c5573493a3d226fa3fcf5afa5e017e39bfb99a` | `4c26c0c2cd43d0caefc21c1d1b05ceca39b0ae6a7c19635eed236beef2b66549` | `2026-05-08_moddhorate-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
